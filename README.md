@@ -1,1 +1,0 @@
-# banalaw-netlify
